@@ -1,0 +1,13 @@
+setup.py
+CDSLM/__init__.py
+CDSLM/paths.py
+CDSLM/utils.py
+CDSLM.egg-info/PKG-INFO
+CDSLM.egg-info/SOURCES.txt
+CDSLM.egg-info/dependency_links.txt
+CDSLM.egg-info/entry_points.txt
+CDSLM.egg-info/not-zip-safe
+CDSLM.egg-info/requires.txt
+CDSLM.egg-info/top_level.txt
+CDSLM/hardware/__init__.py
+CDSLM/hardware/thor_motor.py

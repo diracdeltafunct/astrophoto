@@ -1,0 +1,11 @@
+
+[all]
+mock
+pytest
+
+[lint]
+flake8
+
+[test]
+mock
+pytest

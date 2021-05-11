@@ -1,0 +1,25 @@
+Metadata-Version: 1.0
+Name: CDSLM
+Version: 0.1.dev0
+Summary: UNKNOWN
+Home-page: NA
+Author: TBD
+Author-email: diracdeltafunct@gmail.com
+License: UNKNOWN
+Description: # CDSLM
+        
+        The following is intended to control XX for usage in ... imaging
+        
+        
+        ## Installation
+        
+        ### Developer Mode
+        To install run `python setup.py develop`
+        
+        (creates simlink in python site-packages)
+        
+        ### User mode
+        To install run `python setup.py install`
+        
+        (copies files to python site-packages)
+Platform: UNKNOWN
